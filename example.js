@@ -68,7 +68,7 @@ ServerEvents.recipes(event => {
   // =========================================================
   // Dragonrise Reforge Chinese Armor recipes 
   // =========================================================
-  const CARBIDE_PIECE = 'superbwarfare:cemented_carbide'
+  const CARBIDE_PIECE = 'superbwarfare:cemented_carbide_ingot'
 
   event.remove({ output: 'dragonrise_reforge:cnchest' })
   event.remove({ output: 'dragonrise_reforge:cnfast' })
